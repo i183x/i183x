@@ -206,4 +206,5 @@ Here are some ideas to get you started:
 <p align="center">
   📫 Feel free to reach out for data science and technology opportunities. Let's create, innovate, and learn together!
 </p>
-
+<!-- GitHub Stats Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i183x&layout=compact)](https://github.com/i183x)
